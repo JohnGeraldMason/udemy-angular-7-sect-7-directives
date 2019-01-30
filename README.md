@@ -1,4 +1,6 @@
-# MyFirstApp
+# Directives Deep Dive
+
+![image](https://user-images.githubusercontent.com/2049888/52019250-95164c80-24c3-11e9-8063-a061cf8ece48.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
